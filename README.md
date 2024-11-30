@@ -1,2 +1,6 @@
 # Developer-shortcuts
-Useful shortcuts and commands for developers for Linux (Ubuntu)
+
+## Stop file mode monitoring in Git
+```bash
+git config core. fileMode false
+```
