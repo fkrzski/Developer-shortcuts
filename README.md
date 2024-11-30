@@ -1,6 +1,8 @@
 # Developer-shortcuts
 
-## Stop file mode monitoring in Git
+## Git
+
+### Stop file mode monitoring in Git
 ```bash
 git config core. fileMode false
 ```
